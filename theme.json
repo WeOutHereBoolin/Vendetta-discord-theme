@@ -72,4 +72,8 @@
     "alpha": 1.0,
     "color": "#000000"
   }
+  "plus":{
+        "version":"0",
+        "iconpack":"rosiecord-plumpy"
+     },
 }
